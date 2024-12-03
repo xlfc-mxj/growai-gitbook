@@ -76,7 +76,7 @@
             "skipFirstH1": true
         },
         "edit-link": {
-            "base": "https://github.com/xlfc-mxj/growai-gitbook/blob/dev",
+            "base": "https://github.com/xlfc-mxj/growai-gitbook/blob/master",
             "label": "在GitHub上编辑"
         },
         "favicon": {
